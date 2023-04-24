@@ -1,4 +1,4 @@
-class ProductManager {
+/*class ProductManager {
     constructor(){
         this.products = [];
     }
@@ -51,4 +51,4 @@ products.getProductById(1);
 products.getProductById(3);
 
 //repeated product 
-products.addProduct('testProduct3', 'description3', 300, 'img3', 'abc124', 25);
+products.addProduct('testProduct3', 'description3', 300, 'img3', 'abc124', 25);*/
